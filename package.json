@@ -1,0 +1,22 @@
+{
+  "name": "orga-stringify",
+  "version": "0.0.1",
+  "description": "A orga to strings thing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k2052/orga-stringify.git"
+  },
+  "keywords": [
+    "orga"
+  ],
+  "author": "K-2052",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k2052/orga-stringify/issues"
+  },
+  "homepage": "https://github.com/k2052/orga-stringify#readme"
+}
